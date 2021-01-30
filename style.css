@@ -158,3 +158,6 @@ nav ul li a:hover, a.active{
     display: none ;
     color: 	#0000FF
 }
+hr{
+    border-top: 2px solid rgb(44, 26, 26, 0.7);
+}
